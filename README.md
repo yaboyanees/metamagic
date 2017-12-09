@@ -22,8 +22,8 @@ This workflow automatically tags files as they are uploaded and moved around in 
 
 ## Contributing
 Feel Free to Fork & Push Your Recommended Changes! I definitely need help optimizing and adapting this for more use cases. Contact Me If You Want to Join Forces:
-+[linkedin](https://www.linkedin.com/in/aneesmerzi/)
-+[gmail](merzianees@gmail.com)
++ [LinkedIn](https://www.linkedin.com/in/aneesmerzi/)
++ [My Email: merzianees@gmail.com](merzianees@gmail.com)
 
 ## License
 MetaMagic is released under the [MIT License](https://opensource.org/licenses/MIT).
