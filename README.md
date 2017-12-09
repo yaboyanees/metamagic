@@ -16,3 +16,6 @@ This workflow automatically tags files as they are uploaded and moved around in 
 1. The workflow splits the file path to extract folder names
 2. Iterates over each and assigns values 5 levels down
 3. Waits for changes to update the columns when necessary
+
+### Want More Details?
+[Check out the entire write-up, pictures, and walkthrough video on devpost](https://devpost.com/software/metamagic)
