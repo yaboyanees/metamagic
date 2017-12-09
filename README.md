@@ -1,7 +1,7 @@
-# metamagic
+# Welcome to MetaMagic
 This workflow automatically tags files as they are uploaded and moved around in sharepoint based on their file path. This makes it easier for users to take advantage of custom views and metadata without the painful process of filling out forms one file at a time. 
 
-## To get started
+## Getting Started
 1. Attach this workflow to any document library
 2. Add the following columns:
 - Folder: Single line of text
@@ -25,4 +25,6 @@ Feel Free to Fork & Push Your Recommended Changes! I definitely need help optimi
 +[linkedin](https://www.linkedin.com/in/aneesmerzi/)
 +[gmail](merzianees@gmail.com)
 
+#### License
+MetaMagic is released under the [MIT License](https://opensource.org/licenses/MIT).
 
