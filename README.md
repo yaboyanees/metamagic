@@ -4,12 +4,12 @@ This workflow automatically tags files as they are uploaded and moved around in 
 ## To get started
 1. Attach this workflow to any document library
 2. Add the following columns:
-+Folder: Single line of text
-+Sub Folder 1: Single line of text
-+Sub Folder 2: Single line of text
-+Sub Folder 3: Single line of text
-+Sub Folder 4: Single line of text
-+CurrentPath: Single line of text
+-Folder: Single line of text
+-Sub Folder 1: Single line of text
+-Sub Folder 2: Single line of text
+-Sub Folder 3: Single line of text
+-Sub Folder 4: Single line of text
+-CurrentPath: Single line of text
 3. Use Your Saved time on making custom views
 
 ## How it works
